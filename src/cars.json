@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://amp.businessinsider.com/images/592f4169b74af41b008b5977-750-563.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://media3.mensxp.com/media/content/2017/Nov/the-best-concept-cars-of-2017-that-will-make-you-cry-1400x653-1510839936_1100x513.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.aarp.net/content/dam/aarp/auto/2018/02/1140-2018-cool-cars-promo-mustang-v8-gt.web.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhe6n-3uK_-ed9lOpT96Qm7oHOeivqlW3RJ60eQMAgQOLbB2DZA",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://imgd.aeplcdn.com/1280x720/ec/87/2F/14054/img/m/Lamborghini-Huracan-Right-Front-Three-Quarter-50922_ol.jpg?t=172810727&t=172810727&q=100",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/2e3/image/2e3d585215d7f7908d9a2844fdd5cec8.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://dynamicmedia.zuza.com/zz/m/original_/e/a/ea806fec-2080-4c13-baa5-22e0454b4f82/Screen_Shot_2017-09-07_at_1.49.07_PM___Super_Portrait.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://i.ytimg.com/vi/jdNkbl3NXUc/hqdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYil-YtamBTRexKMKdKpVyDZhzXLkU_grtZq7-jq0Dm5n1kciWgg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/09/12/105446773-GettyImages-1032113296.600x337.jpg?v=1536770655",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://r7h9p6s7.stackpathcdn.com/wp-content/uploads/2016/01/w.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://icdn2.digitaltrends.com/image/rsz_ageraml_sun_lisajohansson_20160506_1-1_edit-640x640.jpg",
+    "clicked": false
+  }
+]
