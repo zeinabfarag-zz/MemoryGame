@@ -1,8 +1,8 @@
 {
-  "name": "memorygame",
+  "name": "MemoryGame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zeinabfarag.github.io/clickygame/",
+  "homepage": "https://zeinabfarag.github.io/MemoryGame/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
