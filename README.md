@@ -16,11 +16,11 @@ To run the application locally, first clone the repository:
 	cd MemoryGame
 Then, install the depencies and start the app:
 
-'''
+```
 	 yarn install
 	 yarn start
 	
-'''
+```
 Now, open the local application on port 3000 at the URL: `http://localhost:3000/`.
 
 ## Technologies used
